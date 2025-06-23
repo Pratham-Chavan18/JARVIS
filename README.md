@@ -59,6 +59,6 @@ Keep internet connection active for search and weather tasks.
 ## 🧪 Setup
 
 ```bash
-git clone
-cd jarvis-ai-assistant
-python jarvis.py
+git clone https://github.com/Pratham-Chavan18/JARVIS.git
+cd JARVIS
+python3 JARVIS.py
