@@ -151,7 +151,7 @@ if __name__ == '__main__':
             speak("I am JARVIS, version 1.0, your virtual assistant. I can perform tasks such as web browsing, searching, weather reporting, and more.")
 
         elif "who made you" in statement or "who created you" in statement:
-            speak("I was built by AI Robosoft.")
+            speak("I was built by Pratham Chavan.")
 
         elif "news" in statement:
             webbrowser.open("https://timesofindia.indiatimes.com/home/headlines")
