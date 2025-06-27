@@ -2,7 +2,7 @@
 
 ![Jarvis Banner](https://ik.imagekit.io/rmlbayysp/jarvis_header.gif)
 
-**JARVIS** (Just A Rather Very Intelligent System) is a Python-based voice assistant that performs various desktop tasks using natural language commands. Inspired by Tony Stark’s AI, it helps with searches, weather, time, launching sites, answering queries, and more — all hands-free!
+**JARVIS** (Just A Rather Very Intelligent System) is a Python-based voice assistant that performs various desktop tasks using natural language commands. Inspired by Tony Stark’s AI, it helps with searches, weather, time, launching sites, answering queries, and more all hands-free!
 
 ---
 
