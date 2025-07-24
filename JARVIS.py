@@ -45,11 +45,11 @@ def takeCommand():
 def wishMe():
     hour = datetime.datetime.now().hour
     if 0 <= hour < 12:
-        speak("Good morning Mr. Pratham.")
+        speak("Good morning Mr. Pratham Chavan.")
     elif 12 <= hour <= 18:
-        speak("Good afternoon Mr. Pratham.")
+        speak("Good afternoon Mr. Pratham Chavan.")
     else:
-        speak("Good evening Mr. Pratham. It's already night, consider getting some rest.")
+        speak("Good evening Mr. Pratham Chavan. It's already night, consider getting some rest.")
 
 def showHelp():
     help_text = """
